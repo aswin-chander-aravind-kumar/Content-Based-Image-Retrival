@@ -1,1 +1,4 @@
 # Content-Based-Image-Retrival
+
+
+The project focused on developing an advanced image search pipeline designed to efficiently identify relevant images within a database. Through extensive research and experimentation, various feature extraction techniques such as Histograms, Gabor filter, Laws filter, and Fourier transform were incorporated to enhance the accuracy of matching target images. Furthermore, the integration of sophisticated SIFT and HOG neural networks with a ResNet18 deep network trained on the ImageNet database played a pivotal role in significantly reducing the execution time from 24 seconds to just 6 seconds. This project not only showcased innovative approaches to image analysis but also demonstrated the potential for substantial improvements in performance and efficiency within image retrieval systems.
